@@ -16,4 +16,7 @@
 - Execute `1.login_ibmq_account.ipynb` with Jupyter notebook.
 ## Practices
 - Feel free to open the rest of files with Jupyter notebook and execute it.
-
+## P.S
+- `0.package_installation.ipynb`: only need to be installed _ONCE_ after Anaconda installation. (只要在Anaconda安裝完執行一次就可以)
+- `1.login_ibmq_account.ipynb`: ensure you need to execute this file _ONCE_ before starting to practicing the files in this folder. (只要開始練習前執行一次就可以)
+ 
