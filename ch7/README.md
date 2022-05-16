@@ -1,0 +1,17 @@
+# Prerequisites
+## Anaconda Installation
+- Download from [Anaconda](https://www.anaconda.com/products/distribution)
+## IBMQ account preparation
+- Register an account: https://quantum-computing.ibm.com/
+- Get an API key from https://quantum-computing.ibm.com/account. 
+  - Search for the string `API token`. 
+  - Save the token string in a file called `ibmq_api_key.txt` and put this file in the upper folder `quantum-computing-practice/` (Don't put this file in ch7).  
+# Execute Jupyter notebook
+## Launch Anaconda
+## Package installation
+- Execute `0.package_installation.ipynb` wtih Jupyter notebook.
+## IBMQ account logon
+- Execute `1.login_ibmq_account.ipynb` with Jupyter notebook.
+## Practice
+- Feel free to open the rest of files with Jupyter notebook and execute it.
+
