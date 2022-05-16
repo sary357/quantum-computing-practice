@@ -1,6 +1,7 @@
 # Prerequisites
 ## Anaconda Installation
 - Download from [Anaconda](https://www.anaconda.com/products/distribution)
+- Follow the steps mentioned in [Anaconda document](https://docs.anaconda.com/anaconda/install/index.html) to install Anaconda on your desktop/laptop.
 ## IBMQ account preparation
 - Register an account: https://quantum-computing.ibm.com/
 - Get an API key from https://quantum-computing.ibm.com/account. 
@@ -12,6 +13,6 @@
 - Execute `0.package_installation.ipynb` wtih Jupyter notebook.
 ## IBMQ account logon
 - Execute `1.login_ibmq_account.ipynb` with Jupyter notebook.
-## Practice
+## Practices
 - Feel free to open the rest of files with Jupyter notebook and execute it.
 
